@@ -1,0 +1,16 @@
+Now check the middle of the search interval: we have
+After five steps, we see that the root lies between 1.1875 and 1.25. We choose our estimate to be
+so a bounda on the maximum possible error in x is PK VO
+VO
+VO
+VO Virtucon
+PK
+VOVO
+AUSITN
+VO
+VO
+VO
+VO
+VO
+AUSITN
+
