@@ -7,7 +7,7 @@ This is a program to implement that read a text file(.txt) and check any word sp
 
 # How to setup debug environment in macos
 --Debug in terminal:
---cd folder
---type make
---copy and paste g++ -o speller -std=c++14 -Wall main.cpp Trie.cpp TrieLeafNode.cpp TrieNonLeafNode.cpp 
---Usage:./speller [dictionary] text
+``--cd folder
+``--type make
+``--copy and paste g++ -o speller -std=c++14 -Wall main.cpp Trie.cpp TrieLeafNode.cpp TrieNonLeafNode.cpp 
+``--Usage:./speller [dictionary] text
