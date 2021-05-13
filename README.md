@@ -7,7 +7,11 @@ This is a program to implement that read a text file(.txt) and check any word sp
 
 # How to setup debug environment in macos
 <b>--Debug in terminal:</b>
+
 <b>--cd folder </b>
+
 <b>--type make </b>
+
 <b>--Usage:./speller [dictionary] text </b>
+
 <b>--Clean: rm speller</b>
