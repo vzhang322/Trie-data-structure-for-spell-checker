@@ -6,4 +6,8 @@ Supervisor: Dr. Andre L Barczak
 This is a program to implement that read a text file(.txt) and check any word spelling mistake in text file. The output will be showed total count of incorrect word text file loaded time in command line and terminial in windows 10 os and macos. Also, it compares each words from dictionary file to stored it in TRIE.
 
 # How to setup debug environment in macos
---Debug in terminal:--cd folder --type make --Usage:./speller [dictionary] text --Clean: rm speller
+<b>--Debug in terminal:</b>
+<b>--cd folder </b>
+<b>--type make </b>
+<b>--Usage:./speller [dictionary] text </b>
+<b>--Clean: rm speller</b>
