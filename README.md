@@ -12,3 +12,4 @@ This is a program to implement that read a text file(.txt) and check any word sp
 --type make
 --copy and paste g++ -o speller -std=c++14 -Wall main.cpp Trie.cpp TrieLeafNode.cpp TrieNonLeafNode.cpp 
 --Usage:./speller [dictionary] text
+--Clean: rm speller
