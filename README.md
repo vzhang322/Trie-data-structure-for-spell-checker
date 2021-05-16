@@ -21,4 +21,12 @@ The first version of the header file uses Trie.h and TrieLeafNode.h, but we foun
 
 
 # How to setup debug environment in Windows10
-<b>--
+<b>--Debug in terminal:</b>
+
+<b>--cd folder </b>
+
+<b>--type make </b>
+
+<b>--Usage:./speller [dictionary] text </b>
+
+<b>--Clean: rm speller</b>
