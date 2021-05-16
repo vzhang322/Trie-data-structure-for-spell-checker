@@ -20,7 +20,7 @@ This is a program to implement that read a text file(.txt) and check any word sp
 # Version Contorl
 The first version of the header file uses Trie.h and TrieLeafNode.h, but we found that it does not work in Windows 10, so we further modified these two files, and the modified names are `Trie1.h` and `TrieLeafNode1.h`. Compile in macOS, just delete `Trie1.h` and `TrieLeafNode1.h`. Before you compile in Windows 10, please delete `Trie.h` and `TrieLeafNode1.h`.
 
-# Compile and run spell check in macos
+# Compile and run spell check in macOS
 <b> `Debug in terminal:`</b>
 
 <b> `cd folder` </b>
@@ -32,7 +32,7 @@ The first version of the header file uses Trie.h and TrieLeafNode.h, but we foun
 <b> `Clean: rm speller`</b>
 
 
-# Compile and run spell check in Windows10
+# Compile and run spell check in Windows 10
 <b> `Debug in Command line:`</b>
 
 <b> `cd folder` </b>
