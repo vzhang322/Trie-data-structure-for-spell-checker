@@ -29,4 +29,4 @@ The first version of the header file uses Trie.h and TrieLeafNode.h, but we foun
 
 <b>--Usage: speller [dictionary] text </b>
 
-<b>--Clean: rm speller</b>
+<b>--Clean: </b>
