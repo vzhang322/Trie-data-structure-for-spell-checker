@@ -3,7 +3,7 @@
 #define TRIE_SPELLCHECKER_TRIELEAFNODE_H
 
 #include <iostream>
-
+#include <cstring>
 using namespace std;
 
 class TrieLeafNode {
