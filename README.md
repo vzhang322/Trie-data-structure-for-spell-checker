@@ -18,7 +18,7 @@ Supervisor: Dr. Andre L Barczak
 This is a program to implement that read a text file(.txt) and check any word spelling mistakes. The output will be showed total count of words misspelled , total words in text file , and how long has been loaded, check,size,unload and total in command line and terminial in windows 10 os and macos. Also, it compares each words from dictionary file to stored it in TRIE.
 
 # Version Contorl
-The first version of the header file uses Trie.h and TrieLeafNode.h, but we found that it does not work in Windows 10, so we further modified these two files, and the modified names are `Trie1.h` and `TrieLeafNode1.h`. Before you compile in Windows 10, please delete `Trie.h` and `TrieLeafNode1.h`.
+The first version of the header file uses Trie.h and TrieLeafNode.h, but we found that it does not work in Windows 10, so we further modified these two files, and the modified names are `Trie1.h` and `TrieLeafNode1.h`. Before you compile in Windows 10, please delete `Trie.h` and `TrieLeafNode.h`.
 
 # Compile and run spell check in macOS
 <b> `Debug in terminal:`</b>
